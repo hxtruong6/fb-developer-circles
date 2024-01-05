@@ -1,7 +1,8 @@
 repo_name: hxtruong6/fb-developer-circles
 report_id: 31d730f373b06dce9b5eb8a086a1a6f3
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T05:14:38+00:00'
+timestamp: '2024-01-05T08:45:15+00:00'
 requested_by: hxtruong6
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hxtruong6/fb-developer-circles
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hxtruong6/fb-developer-circles
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hxtruong6/fb-developer-circles
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -44,6 +48,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hxtruong6/fb-developer-circles
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -54,4 +59,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/hxtruong6/fb-developer-circles
   detection_source: Repo Metadata
